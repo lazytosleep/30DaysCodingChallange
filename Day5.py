@@ -2,6 +2,7 @@
 Maxmize profit by buying and selling multiple times
 '''
 class Solution:
+    # brute force approach just works
     def maximizeProfit(self, arr, start) -> int:
         maxSoFor = 0
         if start == len(arr):
