@@ -1,5 +1,6 @@
 '''
-Group anagram
+Group anagram:
+Given a list of anagram, group anagrams together
 '''
 
 
