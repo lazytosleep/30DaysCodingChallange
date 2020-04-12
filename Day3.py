@@ -1,3 +1,6 @@
+'''
+Max subarray: Given an array fine the contigious sub-array with max sum 
+'''
 def maxIncludingMidArray(arr, low, mid, high) -> int:
     sum_ = 0
     # tracks max sum found so far

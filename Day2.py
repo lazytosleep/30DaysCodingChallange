@@ -1,3 +1,4 @@
+# Single number: In an array each element appear twice except one, find the non repeating element
 def doXOR(nums) -> int:
     xors = 0
     for i in range(0, len(nums)):

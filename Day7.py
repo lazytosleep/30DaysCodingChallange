@@ -1,3 +1,6 @@
+'''
+In in array count the number of elements passing arr[j] = arr[i] +1 where  0<i,j<len(array) 
+'''
 def countPlusOnes(arr):
     mySet = set()
     for ele in arr:
